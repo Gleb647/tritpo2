@@ -39,19 +39,19 @@ Uno - карточная настольная игра, целью которо�
 
 Окно регистрации.
 
-/src/resources/static/main_menu.png
+![alt text](/src/resources/static/register.png)
 
 Окно создания комнаты.
 
-/src/resources/static/create_room.png
+![alt text](/src/resources/static/create_room.png)
 
 Окно поиска комнаты.
 
-/src/resources/static/find_room.png
+![alt text](/src/resources/static/find_room.png)
 
 Окно таблицы лидеров.
 
-/src/resources/static/leaderboard.png
+![alt text](/src/resources/static/leaderboard.png)
 
 2.2 Классы пользователей
 
