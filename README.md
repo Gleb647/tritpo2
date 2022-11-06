@@ -3,8 +3,8 @@
 
 # Содержание 
 [1 Введение](https://github.com/Gleb647/tritpo2/blob/master/README.md#1й-введение)
-[1.1 Назначение](https://github.com/Gleb647/tritpo2/blob/master/README.md#1.1й-назначение)
-[1.2 Бизнес требования](https://github.com/Gleb647/tritpo2/blob/master/README.md#1.2й-бизнес-требования)
+[1.1 Назначение](https://github.com/Gleb647/tritpo2/blob/master/README.md#11-назначение)
+[1.2 Бизнес требования](https://github.com/Gleb647/tritpo2/blob/master/README.md#12-бизнес-требования)
 
 # 1 Введение
 
