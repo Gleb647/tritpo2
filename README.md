@@ -2,7 +2,7 @@
 Требования к проекту
 
 # Содержание 
-[1 Введение](https://github.com/Gleb647/tritpo2/blob/master/README.md#1й-введение)
+[1 Введение](https://github.com/Gleb647/tritpo2/blob/master/README.md#1й-введение)<br>
 [1.1 Назначение](https://github.com/Gleb647/tritpo2/blob/master/README.md#11-назначение)
 [1.2 Бизнес требования](https://github.com/Gleb647/tritpo2/blob/master/README.md#12-бизнес-требования)
 [1.2.1 Исходные данные](https://github.com/Gleb647/tritpo2/blob/master/README.md#121-исходные-данные)
