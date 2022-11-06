@@ -2,8 +2,8 @@
 Требования к проекту
 
 # Содержание 
-[1 Введение](https://github.com/Gleb647/tritpo2/README.md#1й-введение)
-[1.1 Назначение](https://github.com/Gleb647/tritpo2/README.md#1.1й-назначение)
+[1 Введение](https://github.com/Gleb647/tritpo2/blob/master/README.md#1й-введение)
+[1.1 Назначение](https://github.com/Gleb647/tritpo2/blob/master/README.md#1.1й-назначение)
 
 # Введение
 
