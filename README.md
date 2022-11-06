@@ -23,8 +23,8 @@
 [3.2.1 Атрибуты качества](https://github.com/Gleb647/tritpo2/blob/master/README.md#321-атрибуты-качества)
 [3.2.1.1 Требования к удобству использования](https://github.com/Gleb647/tritpo2/blob/master/README.md#3211-требования-к-удобству-использования)
 [3.2.1.2 Требования к безопасности](https://github.com/Gleb647/tritpo2/blob/master/README.md#3212-требования-к-безопасности)
-[3.2.2 Внешние интерфейсы](https://github.com/Gleb647/tritpo2/blob/master/README.md#3212-внешние-интерфейсы)
-[3.2.3 Ограничения](https://github.com/Gleb647/tritpo2/blob/master/README.md#3212-ограничения)
+[3.2.2 Внешние интерфейсы](https://github.com/Gleb647/tritpo2/blob/master/README.md#322-внешние-интерфейсы)
+[3.2.3 Ограничения](https://github.com/Gleb647/tritpo2/blob/master/README.md#323-ограничения)
 
 # 1 Введение
 
