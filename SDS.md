@@ -36,7 +36,7 @@
 
 # Присоединение к игровой комнате
 
-<img src="SDS/diag_activ_register_find.png" width="1100">
+<img src="SDS/diag_activ_find.png" width="1100">
 
 # Диаграммы последовательностей
 
